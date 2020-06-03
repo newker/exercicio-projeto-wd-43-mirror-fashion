@@ -1,0 +1,20 @@
+.container{
+	width:96%;
+}
+
+header h3{
+	text-align:center;
+}
+
+figure img{
+	max-width:50%;
+}
+
+figure{
+	padding:auto;
+	margin:auto;
+}
+
+#centro-distribuicao{
+	max-width:70%;
+}
